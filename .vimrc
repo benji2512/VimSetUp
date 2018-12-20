@@ -29,3 +29,8 @@ call vundle#end()
 filetype plugin indent on
 
 highlight Normal ctermfg=white ctermbg=black
+set expandtab
+set shiftwidth=3
+set tabstop=3
+set smartindent
+set autoindent
