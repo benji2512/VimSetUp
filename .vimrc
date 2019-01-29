@@ -29,3 +29,8 @@ call vundle#end()
 filetype plugin indent on
 
 highlight Normal ctermfg=white ctermbg=black
+
+set ts=4
+set sts=4
+set sw=0
+set et
