@@ -29,16 +29,9 @@ call vundle#end()
 filetype plugin indent on
 
 highlight Normal ctermfg=white ctermbg=black
-<<<<<<< HEAD
 
-set ts=4
-set sts=4
-set sw=0
-set et
-=======
 set expandtab
-set shiftwidth=3
-set tabstop=3
+set shiftwidth=4
+set tabstop=4
 set smartindent
 set autoindent
->>>>>>> ab5fbc5f1745c901e6a649c925c311f3ce373a98
