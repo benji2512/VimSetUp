@@ -15,6 +15,12 @@ Plugin 'vim-airline/vim-airline-themes'
 
 Plugin 'vim-syntastic/syntastic'
 
+Plugin 'Valloric/YouCompleteMe'
+"To get this to work properly,run the following
+"sudo apt install build-essential cmake python3-dev
+"cd into .vim/bundle/YouCompleteMe
+"And then run python3 intall.py
+
 :set number
 set statusline+=%#warningmsg#
 set statusline+=%{SyntasticStatusLineFlag()}
