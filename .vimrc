@@ -36,6 +36,7 @@ filetype plugin indent on
 
 highlight Normal ctermfg=white ctermbg=black
 
+set encoding=utf-8
 set expandtab
 set shiftwidth=4
 set tabstop=4
