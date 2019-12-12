@@ -15,10 +15,7 @@ Plugin 'vim-airline/vim-airline-themes'
 
 Plugin 'vim-syntastic/syntastic'
 
-"To get this to work properly,run the following
-"sudo apt install build-essential cmake python3-dev
-"cd into .vim/bundle/YouCompleteMe
-"And then run python3 intall.py
+Plugin 'ervandew/supertab'
 
 :set number
 set statusline+=%#warningmsg#
