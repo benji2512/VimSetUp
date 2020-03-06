@@ -17,6 +17,8 @@ Plugin 'vim-syntastic/syntastic'
 
 Plugin 'ervandew/supertab'
 
+Plugin 'vim-pandoc/vim-pandoc'
+
 :set number
 set statusline+=%#warningmsg#
 set statusline+=%{SyntasticStatusLineFlag()}
