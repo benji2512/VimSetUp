@@ -7,7 +7,6 @@ filetype indent on
 syntax on
 set number
 set cursorline
-set cursorcolumn
 
 " Set shift width to 4 spaces.
 set shiftwidth=4
